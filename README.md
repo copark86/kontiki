@@ -1,6 +1,10 @@
 Code analysis
 ===================
+SE3 cumulative spline interpolation
+https://github.com/copark86/kontiki/blob/4c44edb7ef041c6abd549e1fe66fe3e9ca255399/cpplib/include/kontiki/trajectories/uniform_se3_spline_trajectory.h#L70
 
+
+SO3+$R^3$ cumulative spline interpolation
 https://github.com/copark86/kontiki/blob/4c44edb7ef041c6abd549e1fe66fe3e9ca255399/cpplib/include/kontiki/trajectories/uniform_so3_spline_trajectory.h#L35
 
 https://github.com/copark86/kontiki/blob/4c44edb7ef041c6abd549e1fe66fe3e9ca255399/cpplib/include/kontiki/trajectories/uniform_r3_spline_trajectory.h#L24
